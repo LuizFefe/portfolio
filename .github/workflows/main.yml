@@ -14,4 +14,4 @@ jobs:
         server: ftp.nodejsng10f04.kinghost.net
         username: luizfmm
         password: katarinadms22
-        server-dir: portfolio/
+        server-dir: /home/luizfmm
